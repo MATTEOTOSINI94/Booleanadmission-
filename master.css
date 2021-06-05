@@ -1,0 +1,50 @@
+body{background-image:url(sfondo.jpg);
+background-size: cover;}
+
+.conteiner{margin:auto; width: 800px;
+  height: 600px;
+  padding:40px;
+  background-color: black;
+  opacity: 80%;
+  border-radius: 20px;
+ }
+
+
+.logo{width: 150px;
+}
+
+header{text-align: center;
+}
+
+#titolo{color: rgb(0, 255, 0);
+}
+
+nav{background-color:rgb(0, 255, 0);
+  text-align: center;
+  padding: 10px}
+
+section{color: white;}
+
+#FONT{font-size: 20PX;
+  margin-bottom: 5px}
+
+p.uno{margin-bottom: 5px;
+  margin-top: 5px}
+p.due{margin-top: 5px;
+  margin-bottom:10px;}
+
+
+.statocaricasezioneuno{background-color:rgb(255,204,0);
+  padding: 13px;
+width: 200px;
+border-radius:10px}
+
+.statocaricasezionedue{background-color:rgb(34,139,34) ;
+   padding: 13px;
+   width: 400px;
+border-radius: 10px;}
+
+.statocaricasezionetre{background-color:rgb(222,49,99);
+   padding: 13px;
+    width: 100px;
+border-radius: 10px;}
